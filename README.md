@@ -44,7 +44,8 @@ In industrial manufacturing, material faults can lead to safety issues and incre
 - **Best Model:** Random Forest  
 - **Observations:** Random Forest gave the highest accuracy and balanced performance across metrics.
 
-## 7. Conclusion
+## 7. Conclusion 🏁
+
 The project successfully demonstrated that machine learning models can accurately classify material faults. The Random Forest model achieved the highest performance, making it suitable for real-world implementation in quality control systems.
 
 ## 8. Future Scope🔮
