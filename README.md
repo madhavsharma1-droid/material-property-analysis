@@ -1,3 +1,8 @@
+## Contributors
+
+- **Madhav Sharma** — Project owner, data analysis & report writing
+- 
+
 # Material Property Analysis
 
 ## 1. Project Title 🚀
